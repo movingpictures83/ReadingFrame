@@ -1,0 +1,2 @@
+Prefix plugins/ReadingFrame/example
+Plugin ReadingFrame inputfile sequences.refgene.csv outputfile sequences.withframes.csv
